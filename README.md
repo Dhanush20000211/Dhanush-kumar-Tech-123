@@ -28,7 +28,7 @@ I'm a passionate Frontend Developer and a recent M.Tech Integrated Software Engi
 
 🤝 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 🐙 GitHub: Add your GitHub profile URL
+- 💼 LinkedIn:https://www.linkedin.com/in/dhanushkumar123
+
 
 Thanks for visiting my profile! 😊
